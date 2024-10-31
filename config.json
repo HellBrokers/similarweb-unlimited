@@ -1,0 +1,18 @@
+{
+"status": 200,
+"features": {
+"rcn-1625-limit-usage-per-week": {
+"defaultValue": 10000000000
+},
+"rcn-1967-limit": {
+"defaultValue": {
+"nonRegisteredLimit": 10000000000,
+"nonPayingLimit": 10000000000
+}
+},
+"keywords-section": {
+"defaultValue": true
+}
+},
+"dateUpdated": "2024-03-21T11:44:52.728Z"
+}
